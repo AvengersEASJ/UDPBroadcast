@@ -1,0 +1,7 @@
+C:\source\Projekt\UDPBroadcast\UDPBroadcastPi\bin\Debug\UDPBroadcastPi.exe.config
+C:\source\Projekt\UDPBroadcast\UDPBroadcastPi\bin\Debug\UDPBroadcastPi.exe
+C:\source\Projekt\UDPBroadcast\UDPBroadcastPi\bin\Debug\UDPBroadcastPi.pdb
+C:\source\Projekt\UDPBroadcast\UDPBroadcastPi\obj\Debug\UDPBroadcastPi.csprojAssemblyReference.cache
+C:\source\Projekt\UDPBroadcast\UDPBroadcastPi\obj\Debug\UDPBroadcastPi.csproj.CoreCompileInputs.cache
+C:\source\Projekt\UDPBroadcast\UDPBroadcastPi\obj\Debug\UDPBroadcastPi.exe
+C:\source\Projekt\UDPBroadcast\UDPBroadcastPi\obj\Debug\UDPBroadcastPi.pdb
