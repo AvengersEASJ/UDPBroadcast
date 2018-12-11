@@ -5,3 +5,7 @@ C:\source\Projekt\UDPBroadcast\UDPBroadcastPi\obj\Debug\UDPBroadcastPi.csprojAss
 C:\source\Projekt\UDPBroadcast\UDPBroadcastPi\obj\Debug\UDPBroadcastPi.csproj.CoreCompileInputs.cache
 C:\source\Projekt\UDPBroadcast\UDPBroadcastPi\obj\Debug\UDPBroadcastPi.exe
 C:\source\Projekt\UDPBroadcast\UDPBroadcastPi\obj\Debug\UDPBroadcastPi.pdb
+C:\source\Projekt\UDPBroadcast\UDPBroadcastPi\bin\Debug\Newtonsoft.Json.dll
+C:\source\Projekt\UDPBroadcast\UDPBroadcastPi\bin\Debug\Newtonsoft.Json.pdb
+C:\source\Projekt\UDPBroadcast\UDPBroadcastPi\bin\Debug\Newtonsoft.Json.xml
+C:\source\Projekt\UDPBroadcast\UDPBroadcastPi\obj\Debug\UDPBroadcastPi.csproj.CopyComplete
